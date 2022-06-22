@@ -1,6 +1,8 @@
 ###<!-- Hi there 👋 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlBardoHammer&theme=radical&count_private=true&show_icons=true)](https://github.com/IlBardoHammer/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlBardoHammer&theme=radical)
 <!--
 **IlBardoHammer/IlBardoHammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

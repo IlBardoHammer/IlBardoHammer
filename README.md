@@ -5,7 +5,7 @@ SLACK - [![Join the #design channel](https://img.shields.io/badge/Slack%20channe
 SLACK - [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 FORUM - [![18app on forum.italia.it](https://img.shields.io/badge/Forum-18app-blue.svg)](https://forum.italia.it/c/18app-carta-docente)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlBardoHammer)](https://github.com/IlBardoHammer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlBardoHammer&theme=radical&show_icons=true)](https://github.com/IlBardoHammer/github-readme-stats)
 <!--
 **IlBardoHammer/IlBardoHammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

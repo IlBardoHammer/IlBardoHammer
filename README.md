@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlBardoHammer&theme=radical&count_private=true&show_icons=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlBardoHammer&repo=github-readme-stats)
+<!--
 
 **IlBardoHammer/IlBardoHammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

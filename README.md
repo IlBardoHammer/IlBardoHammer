@@ -1,6 +1,5 @@
 <!-- Hi there 👋 -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IlBardoHammer)](https://github.com/IlBardoHammer/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlBardoHammer&theme=radical&count_private=true&show_icons=true)(https://github.com/IlBardoHammer/github-readme-stats)

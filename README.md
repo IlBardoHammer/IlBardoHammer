@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/l0O9xncMzILK2mRvW" width="342" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-simpsons-mr-robot-l0O9xncMzILK2mRvW">via GIPHY</a></p> width="100"/>
+  <img src="https://giphy.com/embed/l0O9xncMzILK2mRvW" width="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Niccolò Calabrese</h1>

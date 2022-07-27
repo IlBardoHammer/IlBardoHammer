@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/l41lNbxo3JEJbRRCg" width="412" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-art-mr-robot-gif-artist-l41lNbxo3JEJbRRCg" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Niccolò Calabrese</h1>
 <h3 align="center">Web developer</h3>
 

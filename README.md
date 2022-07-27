@@ -5,12 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilbardohammer" alt="ilbardohammer" /></a> </p>
 
+```diff
 - 🌱 @@I’m currently learning **Flask, AWS services, Pandas**@@
 
 - 👨‍💻 All of my projects are available at [github.com/IlBardoHammer](github.com/IlBardoHammer)
 
 - 📫 How to reach me **nicchecala@gmail.com**
-
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/marlonbardo23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marlonbardo23" height="30" width="40" /></a>

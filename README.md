@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilbardohammer" alt="ilbardohammer" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, AWS services, Pandas**
+- 🌱 @@I’m currently learning **Flask, AWS services, Pandas**@@
 
 - 👨‍💻 All of my projects are available at [github.com/IlBardoHammer](github.com/IlBardoHammer)
 

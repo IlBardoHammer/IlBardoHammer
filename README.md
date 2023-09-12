@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Niccolò Calabrese</h1>
-
+<h3 align="center">I Fell in love with coding...</h3>
+<hr>
 <img align="center">![mr_robot_gif](https://github.com/IlBardoHammer/IlBardoHammer/assets/48446636/664656b5-d695-412a-b451-8bb05371b227)>
 
-<h3 align="center">I Fell in love with coding...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilbardohammer&label=Profile%20views&color=0e75b6&style=flat" alt="ilbardohammer" /> </p>
 

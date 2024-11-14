@@ -6,7 +6,7 @@ I am a Frontend Developer, passionate about creating fluid and reactive products
 
 
 
-Contact me for collab through: 
+- Contact me for collab through: 
 <a href="mailto:nicchecala@gmail.com" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>&nbsp;&nbsp;
@@ -14,7 +14,7 @@ Contact me for collab through:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-top: 10px; display: inline;">
 </a>
 
-I’m currently learning React, React Native, Next.js
+- I’m currently learning React, React Native, Next.js
 
 
 # 💻 Tech Stack:

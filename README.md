@@ -7,8 +7,12 @@ I am a Frontend Developer, passionate about creating fluid and reactive products
 
 
 Contact me for collab through: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicchecala@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niccolo-calabrese)
+<a href="mailto:nicchecala@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;">
+</a>
+<a href="https://www.linkedin.com/in/niccolo-calabrese">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">
+</a>
 
 🌱 I’m currently learning React, React Native, Next.js
 

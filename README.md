@@ -7,9 +7,10 @@ I am a Frontend Developer, passionate about creating fluid and reactive products
 
 
 Contact me for collab through: 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20">
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
+<div style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
+</div>
 
 I’m currently learning React, React Native, Next.js
 

@@ -8,11 +8,7 @@ I am a Frontend Developer, passionate about creating fluid and reactive products
 
 - Contact me for collab through: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;&nbsp;![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<p>I’m currently learning React, React Native, Next.js 
-  <span style="padding-top:100px; align-items: center;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </span>
-</p>
+I’m currently learning React, React Native, Next.js <sup>![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</sup>
 
 
 # 💻 Tech Stack:

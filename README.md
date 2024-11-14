@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi everyone, I'm Niccolò... a stubborn programmer!
 🌱 I’m currently learning React, React Native, Next.js<br>💬 Ask me about Javascript ES6, CSS<br>
 
 

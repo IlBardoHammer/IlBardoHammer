@@ -1,11 +1,20 @@
 # 🥷🏻 Hi everyone, I'm Niccolò... a stubborn programmer!
 
-I was born as a graphic designer, I discovered the world of dev at university, and I curse the day I chose graphics in high school...
-
+I was born as a graphic designer, 
+I discovered the world of dev at university, and I curse the day I chose graphics in high school...
 I am a Frontend Developer, passionate about creating fluid and reactive products.
 
-Contact me for collab through:[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicchecala@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/niccolo-calabrese])
+
+
+Contact me for collab through:
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="mailto:nicchecala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/niccolo-calabrese">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 🌱 I’m currently learning React, React Native, Next.js<br>💬 Ask me about Javascript ES6, CSS<br>
 

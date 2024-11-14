@@ -6,15 +6,15 @@ I am a Frontend Developer, passionate about creating fluid and reactive products
 
 
 
-	• Contact me for collab through: 
-<a href="mailto:nicchecala@gmail.com">
+Contact me for collab through: 
+<p href="mailto:nicchecala@gmail.com" align="center">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;">
-</a>
-<a href="https://www.linkedin.com/in/niccolo-calabrese">
+</p>
+<p href="https://www.linkedin.com/in/niccolo-calabrese" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;">
-</a>
+</p>
 
-	• I’m currently learning React, React Native, Next.js
+I’m currently learning React, React Native, Next.js
 
 
 # 💻 Tech Stack:
